@@ -5,7 +5,10 @@
 - 🌱 Fortran, C++ and Python is my knowledgeable computer programming language for my computational physics research. I’m currently learning in basic ethical hacking, and other programming language...
 
 - 📫 How to reach me in my email address: qcatfermi@gmail.com...
-- ⚡ Fun fact: My humanistic belief is Optimistic Nihilist aproach in Pessimism...
+- ⚡ Fun fact:
+          - Humanistic belief is Optimistic Nihilist aproach in Pessimism
+          - Spiritual belief is Conservative Christian
+          - Religion Doctrinal Belief is Fundamental Baptist
 
 <!---- 💞️ I’m looking to work and collaborate on a small group of researchers, programmers or software developers, and looking job opportunity in tech company...--->
 
