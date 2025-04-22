@@ -10,9 +10,4 @@
           - Spiritual belief is Conservative Christian
           - Religion Doctrinal Belief is Fundamental Baptist
 
-<!---- 💞️ I’m looking to work and collaborate on a small group of researchers, programmers or software developers, and looking job opportunity in tech company...--->
 
-<!---
-QCATHACKER-13/QCATHACKER-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
