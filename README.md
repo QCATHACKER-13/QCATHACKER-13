@@ -7,7 +7,7 @@
 - 📫 How to reach me in my email address: qcatfermi@gmail.com...
 - ⚡ Fun fact:
           - Humanistic belief is Optimistic Nihilist aproach in Pessimism
-          - Spiritual belief is Conservative Christian
-          - Religion Doctrinal Belief is Fundamental Baptist
+          - Spiritual belief is Conservative Christian...
+          - Religion Doctrinal Belief is Fundamental Baptist...
 
 
