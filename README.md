@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Christopher Emmanuelle Visperas
-- @QCATHACKER-13(Private Anonymous and Work Related Github Account) is my penname
+- 👋 Hi, @QCATHACKER-13(Private Anonymous and Work Related Github Account)
 
 - 👀 I interested on software development, machine learning & AI, and cybersecurity...
 
